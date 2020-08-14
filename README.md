@@ -1,3 +1,5 @@
+hosted link: [https://parth-mantri.github.io/my-app/](https://parth-mantri.github.io/my-app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
